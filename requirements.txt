@@ -1,0 +1,6 @@
+numpy==1.26.0
+scipy==1.10.1
+sounddevice==0.4.7
+soundfile==0.12.1
+tensorflow==2.13.0
+tensorflow_intel==2.14.0
