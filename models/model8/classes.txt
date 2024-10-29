@@ -1,0 +1,8 @@
+down
+right
+no
+go
+stop
+yes
+left
+up
